@@ -32,7 +32,7 @@
 
   ### PO request 4: Ethanol
   
-  * 2021-06-24: PO requested by [email](https://github.com/aubreymoore/WPDN/raw/main/procurement/history/req1.pdf). Included a quote for 2 barrels of ethanol from REMET ($1231.51).
+  * 2021-06-24: PO requested by [email](https://github.com/aubreymoore/WPDN/raw/main/procurement/history/req2.pdf). Included a quote for 2 barrels of ethanol from REMET ($1231.51).
   * 2021-00-00: Abstract Summary completed.
   * 2021-07-07: PO 211615 received.
   * 2021-07-08: PO emailed to REMET (Aubrey)
