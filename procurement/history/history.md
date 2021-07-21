@@ -8,7 +8,7 @@
 
   ## PO Requests from Insect Pest Diagnostics Lab (Aubrey Moore)
 
-  ### PO request 1: Entomological supplies</a></h3>
+  ### PO request 1: Entomological supplies
   
   * 2021-06-21: PO requested by [email](https://github.com/aubreymoore/WPDN/raw/main/procurement/history/req1.pdf). Included a quote for entomological supplies from Bioquip ($1054.02).
   * 2021-06-28: Abstract Summary completed (7 days).
