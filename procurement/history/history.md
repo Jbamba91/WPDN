@@ -10,7 +10,7 @@
 
   ### PO request 1: Entomological supplies</a></h3>
   
-  * 2021-06-21: PO requested by email [<a href="req1.pdf">PDF</a>]. Included a quote for entomological supplies from Bioquip ($1054.02).
+  * 2021-06-21: PO requested by email [PDF](req1.pdf). Included a quote for entomological supplies from Bioquip ($1054.02).
   * 2021-06-28: Abstract Summary completed.
   * 2021-07-07: PO 211614 received.
   * 2021-07-14: Order placed online and paid for via credit card (Aubrey and Megumi)
