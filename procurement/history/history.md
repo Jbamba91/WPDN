@@ -45,6 +45,6 @@
   * DATE: requested by email
   * 2021-00-00: Abstract Summary completed.
 
-  ## Personell Amendment Request from Plant Diagnostics Lab  (Julia Hudson)</h2>
+  ## Personnel Amendment Request from Plant Diagnostics Lab (Julia Hudson)
   
   * Dated entries here.
