@@ -1,4 +1,4 @@
-  <h1>Status of Attempts to Spend End-of-grant Funds from the Western Plant Diagnostic Network</h1>
+  # Status of Attempts to Spend End-of-grant Funds from the Western Plant Diagnostic Network
 
   The University of Guam
 
@@ -6,18 +6,16 @@
 
   mail from Yang Yeh: I wanted to confirm that by the end date July 31, 2021, you will be sending us the final invoice for this agreement.
 
-  <h2>PO Requests from Insect Pest Diagnostics Lab (Aubrey Moore)<h2>
+  ## PO Requests from Insect Pest Diagnostics Lab (Aubrey Moore)
 
-  <h3>PO request 1: Entomological supplies</a></h3>
-  <ul>
-    <li> 2021-06-21: PO requested by email [<a href="req1.pdf">PDF</a>].
-         Included a quote for entomological supplies from Bioquip ($1054.02).
-    <li> 2021-06-28: Abstract Summary completed.
-    <li> 2021-07-07: PO 211614 received.
-    <li> 2021-07-14: Order placed online and paid for via credit card (Aubrey and Megumi)
-    <li> 2021-07-17: Order shipped.
-    <li> <b>STATUS: INCOMPLETE</b> - Awaiting arrival of order.
-  </ul>
+  ### PO request 1: Entomological supplies</a></h3>
+  
+  * 2021-06-21: PO requested by email [<a href="req1.pdf">PDF</a>]. Included a quote for entomological supplies from Bioquip ($1054.02).
+  * 2021-06-28: Abstract Summary completed.
+  * 2021-07-07: PO 211614 received.
+  * 2021-07-14: Order placed online and paid for via credit card (Aubrey and Megumi)
+  * 2021-07-17: Order shipped.
+  * **STATUS: INCOMPLETE - Awaiting arrival of order.**
 
   <h3>PO request 2: Stereoscope</a></h3>
   <ul>
