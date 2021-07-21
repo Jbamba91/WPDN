@@ -1,3 +1,3 @@
 Hi there.
 
-[history](procurement/history/history.md)
+[history](procurement/history/history)
