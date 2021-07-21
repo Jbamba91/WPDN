@@ -1,4 +1,3 @@
-<html>
   <h1>Status of Attempts to Spend End-of-grant Funds from the Western Plant Diagnostic Network</h1>
 
   The University of Guam
@@ -58,5 +57,3 @@
   <ul>
     <li> Dated entries here.
   </ul>
-
-</html>
