@@ -42,10 +42,54 @@ On May 22, Aubrey Moore, Bob Schlub and Julia Hudson had a Zoom meeting to put t
 
 ## PO Requests from Plant Diagnostics Lab (Julia Hudson)
   
-### PO request 1: Lab supplies
+### PO request 1: Lab supplies (Reaction Supply $14,000)
   
-* DATE: requested by email
-* 2021-00-00: Abstract Summary completed.
+* 2021-06-22: Julia requested quote from Reaction Supply
+* 2021-07-09: Quote rec'd; submitted for PO; rejected because of excessive amount. 
+* 2021-07-12: Julia started collecting quotes to split up original quote
+* **STATUS: REJECTED**
+
+## PO request 2: Lab supplies: Bioquip ($1,469.26)
+
+* 2021-07-15 PO requested
+* 2021-07-15 PO rec'd
+* 2021-07-16 order placesd online via credit card
+*  **STATUS: Awaiting arrival of shipment**
+
+## PO request 3: Lab supplies: Thomas Scientific ($1620.87) 
+* 2021-07-15 PO requested
+* 2021-07-19 PO rec'd
+* 2021-07-19 Tried to order online; no shipping option available; PO emailed to Thomas Scientific
+*  **STATUS: Awaiting response from Thomas Scientific**
+
+## PO request 4: Lab supplies: Reaction Supply ($2400) 
+* 2021-07-16 PO requested
+* 2021-07-20 PO cancelled because vendor could not guarantee arrival of order before July 31
+*  **STATUS: REJECTED**
+
+## PO request 5: Lab supplies: Carolina Biological Supply ($2394.34) 
+* 2021-07-16 PO requested
+* 2021-07-20 PO rec'd
+* 2021-07-20 Tried to order online; sent PO directly to company
+* 2021-07-22 Corolina Biological replied that they could not ship specific items to Guam
+*  **STATUS: PO Rejected by Carolina Biological Supply**
+
+## PO request 6: Microscopy Supplies: Boli Optics ($659.08) 
+* 2021-07-13 PO requested
+* 2021-07-13 Julia requested info required to set up new vendor
+* 2021-07-16 Company info for new vendor rec'd
+* 2021-07-19 New vendor account created
+* 2021-07-20 Po rec'd
+* 2021-07-20 Attempted to order online; problem with credit card authentication
+* 2021-07-20 Not enough for wire transfer
+*  **STATUS: PO Abandonned becuase of purchasing delays**
+
+## PO request 7: Lab supplies: Cole-Palmer ($2242.89) 
+* 2021-07-16 PO requested
+* 2021-07-20 PO rec'd
+* 2021-07-20 Ordered online with credit card
+* 2021-07-21 Order acknowledgement rec'd
+*  **STATUS: Awaiting arrival of order**
 
 ## Personnel Amendment Request from Plant Diagnostics Lab (Julia Hudson)
   
