@@ -2,7 +2,7 @@
 
 University of Guam has participated in WPDN since 2004. The current 5 year grant which funds WPDN ends July 31, 2021, requiring all funds to be spent prior to this date. The latest report recieved for the WPDN account shows $32,441 remaining in the budget.
   
-![caca](budget-report-2021-07-09.png)
+![caca](budget-report-2021-07-20.png)
 
 WPDN funds at UOG have been used to purchase supplies and equipment for the Plant Diagnostics Lab run by Bob Schlub and the Insect Pest Diagnostics Lab run by Aubrey Moore. Prior to his passing, WPDN partially funded Roger Brown's salary and travel money was provided for participation in the annual WPDN meeting. Remaining funding is largely a result of Roger Brown's passing and inability to travel due to CODID19.   
   
