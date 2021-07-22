@@ -1,6 +1,6 @@
 # Status of Attempts to Spend End-of-grant Funds from the Western Plant Diagnostic Network(WPDN)
 
-University of Guam has participated in WPDN since 2004. The current 5 year grant which funds WPDN ends July 31, 2021, requiring all funds to be spent prior to this date. The latest report recieved for the WPDN account shows $32,441 remaining in the budget.
+University of Guam has participated in WPDN since 2004. The current 5 year grant which funds WPDN ends July 31, 2021, requiring all funds to be spent prior to this date. The latest report received for the WPDN account shows $ remaining in the budget.
   
 ![caca](budget-report-2021-07-20.png)
 
