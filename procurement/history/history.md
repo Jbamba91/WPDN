@@ -49,4 +49,9 @@ On May 22, Aubrey Moore, Bob Schlub and Julia Hudson had a Zoom meeting to put t
 
 ## Personnel Amendment Request from Plant Diagnostics Lab (Julia Hudson)
   
-* Dated entries here.
+* 2021-06-02 Request for personnel action emailed to CNAS-HR
+* 2021-06-07 Julia drafted a memo asking transfer of Alex Chingyan to WPDN funds
+* 2021-06-22 Response from CNAS-HR including copy of memo and a statement indicating that request was completed. Unfortunately, this was the wrong memo.
+* 2021-06-28 CNAS signatures on oriiginal memo completed; forwarded to UOG-HRO
+* 2021-07-15 Personnel request complete.
+* **STATUS - COMPLETE** 
