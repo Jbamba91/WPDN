@@ -1,6 +1,6 @@
 # Status of Attempts to Spend End-of-grant Funds from the Western Plant Diagnostic Network(WPDN)
 
-University of Guam has participated in WPDN since 2004. The current 5 year grant which funds WPDN ends July 31, 2021, requiring all funds to be spent prior to this date. The latest report received for the WPDN account shows $12,744 remaining in the budget.
+University of Guam has participated in WPDN since 2004. The current 5 year grant which funds WPDN ends July 31, 2021, requiring all funds to be spent prior to this date. The latest report received for the WPDN account shows $13,647 remaining in the budget.
   
 ![caca](budget-report-2021-07-20.png)
 
@@ -81,7 +81,7 @@ On May 22, Aubrey Moore, Bob Schlub and Julia Hudson had a Zoom meeting to put t
 * 2021-07-19 New vendor account created
 * 2021-07-20 Po rec'd
 * 2021-07-20 Attempted to order online; problem with credit card authentication
-* 2021-07-20 Not enough for wire transfer
+* 2021-07-20 Not enough time remaining for wire transfer
 *  **STATUS: PO Abandonned becuase of purchasing delays**
 
 ## PO request 7: Lab supplies: Cole-Palmer ($2242.89) 
